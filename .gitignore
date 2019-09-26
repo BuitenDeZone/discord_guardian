@@ -1,0 +1,12 @@
+# IDE's
+.vscode/
+.idea/
+
+# Ruby
+Gemfile.lock
+vendor/
+.ruby-version
+.ruby-gemset
+.ruby-env
+.rvmrc
+.yardoc
