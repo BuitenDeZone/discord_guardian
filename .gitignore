@@ -10,3 +10,6 @@ vendor/
 .ruby-env
 .rvmrc
 .yardoc
+
+# discord guardian ignores
+.discord_guardian.yml
